@@ -4,7 +4,7 @@ title: Home
 ---
 # Embedded Systems Portfolio
 
-Merhaba! Ben Yağmur/Faruk. ESP32 (C3/C6/H2/S3), RTOS, IoT (Wi‑Fi/BLE/Thread/Zigbee/Matter), ROS2, Edge AI ve FPGA (Tang Nano 9K) alanlarında projeler geliştiriyorum.
+Merhaba! Ben Faruk. ESP32 (C3/C6/H2/S3), RTOS, IoT (Wi‑Fi/BLE/Thread/Zigbee/Matter), ROS2, Edge AI ve FPGA (Tang Nano 9K) alanlarında projeler geliştiriyorum.
 
 **Öne çıkan alanlar:** I²C, SPI, UART, ADC/PWM, FreeRTOS, MQTT/CoAP, micro‑ROS, OpenCV, TensorFlow Lite Micro, Verilog.
 
